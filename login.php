@@ -1,9 +1,6 @@
 <?php session_start(); ?>
 <?php include("include/header.php"); ?>
-<?php include("include/functions.php"); 
-error_reporting(E_ALL);
-ini_set("display_errors", 1);
-ini_set("html_errors", 1);?>
+<?php include("include/functions.php"); ?>
            </div>
                <?php
  

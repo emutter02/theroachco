@@ -1,0 +1,731 @@
+.header {
+    padding: 20px;
+    text-align: center;
+    font-size: 60px;
+    margin-top: 30px;
+    font-family: 'Gloria Hallelujah', cursive;
+    color: #663300;
+}
+.header2 {
+    font-size: 45px;  
+    margin: 25px;
+    text-align: center;
+    font-family: 'Gloria Hallelujah', cursive;
+    color: #663300;
+}
+.body1 {
+     border: 3px solid #663300;
+     font-size: 23px;
+     padding: 20px;
+     margin-left: 15%;
+     margin-right: 15%;
+     text-align: center;
+}
+
+.proof {
+    font-size: 45px;
+    text-align: center;
+    margin: 30px;
+    font-family: 'Gloria Hallelujah', cursive;
+    color: #663300;
+    
+}
+.topnav {
+    background-color: #663300;
+    text-align: center;
+    padding-bottom: 2px;
+    padding-top: 2px;
+    padding: 15px;
+}
+
+#Food img {
+    display: inline-block;
+}
+
+.mix {
+    display: inline-block; 
+   max-width: 400px;
+   text-align: center;
+}
+.lettuce {
+    display: inline-block; 
+   max-width: 400px;
+   text-align: center;
+}
+.apple {
+    display: inline-block; 
+   max-width: 400px;
+   text-align: center;
+}
+.strawberry {
+    display: inline-block; 
+   max-width: 400px;
+   text-align: center;
+}
+.pineapple {
+    display: inline-block; 
+   max-width: 400px;
+   text-align: center;
+}
+.croissant {
+   display: inline-block; 
+   max-width: 400px;
+   text-align: center;
+}
+.pizza {
+    display: inline-block; 
+   max-width: 400px;
+   text-align: center;
+}
+.sushi {
+    display: inline-block; 
+   max-width: 400px;
+   text-align: center;
+}
+.treats {
+    display: inline-block; 
+   max-width: 400px;
+   text-align: center;
+}
+.cookies {
+    display: inline-block; 
+   max-width: 400px;
+   text-align: center;
+}
+.mix img{
+   height: 250px;
+   max-width: 310px;
+   padding: 20px;
+}
+.mix h1{
+   font-size: 15px;
+   
+}
+
+.lettuce img{
+    height: 250px;
+    width: 300px;
+    padding: 20px;
+} 
+
+.lettuce h1{
+   font-size: 15px; 
+}
+
+.apple img{
+    height: 250px;
+    width: 300px;
+    padding: 20px;
+}
+.apple h1{
+       font-size: 15px;
+}
+
+.strawberry img{
+    height: 250px;
+    width: 300px;
+   padding: 20px;
+}
+.strawberry h1{
+    font-size: 15px;
+}
+
+.pineapple img{
+    height: 250px;
+    width: 300px;
+   padding: 20px;
+}
+.pineapple h1{
+       font-size: 15px;
+}
+
+.croissant img{
+    height: 250px;
+    width: 300px;
+    padding: 20px;
+}
+.croissant h1{
+       font-size: 15px;
+}
+
+.pizza img{
+    height: 250px;
+    width: 300px;
+    padding: 20px;
+}
+.pizza h1{
+       font-size: 15px;
+}
+
+.sushi img{
+    height: 250px;
+    width: 300px;
+    padding: 20px;
+}
+.sushi h1{
+       font-size: 15px;
+}
+
+.treats img{
+    height: 250px;
+    width: 300px;
+    padding: 20px;
+}
+.treats h1{
+       font-size: 15px;
+}
+
+.cookies img{
+    height: 250px;
+    width: 300px;
+    padding: 20px;
+}
+.cookies h1{
+       font-size: 15px;
+}
+
+.topnav a {
+   padding: 20px 36px;
+   color: white;
+   text-decoration: none;
+   font-size: 33px;
+}
+
+.icon img {
+    border: solid white;
+    border-radius: 100%;
+    width: 100px;
+}
+
+.icon h1 {
+    font-size: 15px;
+    left: 16px;
+    position: absolute;
+}
+
+#join h1{
+    font-size: 55px;
+}
+
+#login h1{
+    font-size: 55px;
+}
+
+.inadress img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:30px;
+    width: 400px;
+    border: 3px solid #663300;
+}
+
+.roachbrooch img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    width: 400px;
+    border: 3px solid #663300;
+}
+
+.strawberoach img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    width: 400px;
+    border: 3px solid #663300;
+}
+
+.kidnleash img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    width: 400px;
+    border: 3px solid #663300;
+}
+
+.contact {
+    font-size: 8px;
+    top: 4.8px;
+    right: 15px;
+    font-weight: bold;
+    border: 3px solid #663300;
+    position: absolute;
+    text-align: center;
+
+}
+
+#Housing img {
+    display: inline-block;
+}
+
+.house1 {
+   display: inline-block; 
+   max-width: 400px;
+   text-align: center;
+}
+
+.house1 h1 {
+    font-size: 15px;
+}
+
+
+.house2 {
+   display: inline-block; 
+   max-width: 400px;
+   text-align: center;
+}
+
+.house2 h1 {
+    font-size: 15px;
+}
+
+
+.house3 {
+   display: inline-block; 
+   max-width: 400px;
+   text-align: center;
+}
+
+.house3 h1 {
+    font-size: 15px;
+}
+
+
+.house4 {
+   display: inline-block; 
+   max-width: 400px;
+   text-align: center;
+}
+
+.house4 h1 {
+    font-size: 15px;
+}
+
+
+.house5 {
+   display: inline-block; 
+   max-width: 400px;
+   text-align: center;
+}
+
+.house5 h1 {
+    font-size: 15px;
+}
+
+
+.house6 {
+   display: inline-block; 
+   max-width: 400px;
+   text-align: center;
+}
+
+.house6 h1 {
+    font-size: 15px;
+}
+
+
+.house8 {
+   display: inline-block; 
+   max-width: 400px;
+   text-align: center;
+}
+
+.house8 h1 {
+    font-size: 15px;
+}
+
+.house9 {
+   display: inline-block; 
+   max-width: 400px;
+   text-align: center;
+}
+
+.house9 h1 {
+    font-size: 15px;
+}
+
+
+.house10 {
+   display: inline-block; 
+   max-width: 400px;
+   text-align: center;
+}
+
+.house10 h1 {
+    font-size: 15px;
+}
+
+.house11 {
+   display: inline-block; 
+   max-width: 400px;
+   text-align: center;
+}
+
+.house11 h1 {
+    font-size: 15px;
+}
+
+.house12 {
+   display: inline-block; 
+   max-width: 400px;
+   text-align: center;
+}
+
+.house12 h1 {
+    font-size: 15px;
+}
+
+.house13 {
+   display: inline-block; 
+   max-width: 400px;
+   text-align: center;
+}
+
+.house13 h1 {
+    font-size: 15px;
+}
+
+.house14 {
+   display: inline-block; 
+   max-width: 400px;
+   text-align: center;
+}
+
+.house14 h1 {
+    font-size: 15px;
+}
+
+button {
+    background-color: #A0522D;
+  color: white;
+  padding: 8px;
+  margin: 8px 0;
+  border: none;
+  max-width: 100%;
+  border-radius: 4px;
+  font-size: 15px;
+}
+
+
+
+.col-75 .container {
+    background-color: #e9c2af;
+    padding: 12px;
+    margin-top: 30px;
+    border: 2px solid #dda388;
+    border-radius: 4px;
+}
+
+input[type=text] {
+    background-color: #f4e0d7;
+    width: 100%;
+    height: 30px;
+    margin-bottom: 15px;
+    border: 1px solid #dda388;
+}
+
+.btn {
+background-color: #dda388;
+  color: black;
+  padding: 12px;
+  margin: 10px 0;
+  border: none;
+  width: 100%;
+  border-radius: 4px;
+  font-size: 17px;
+}
+
+label {
+  margin-bottom: 10px;
+  display: block;
+}
+
+.col-25 .container {
+    background-color: #e9c2af;
+    padding: 12px;
+    margin-top: 30px;
+    border: 2px solid #dda388;
+    border-radius: 4px;
+}
+
+span.price {
+    float: right;
+}
+
+.signup .container {
+    background-color: #e9c2af;
+    padding: 12px;
+    margin-top: 30px;
+    border: 2px solid #dda388;
+    border-radius: 4px;
+}
+
+.signup input{
+    background-color: #f4e0d7;
+    width: 100%;
+    height: 30px;
+    margin-bottom: 15px;
+    border: 1px solid #dda388;
+}
+
+.signup h1 {
+    font-size:55px;
+}
+
+
+.login .container {
+    background-color: #e9c2af;
+    padding: 12px;
+    margin-top: 30px;
+    border: 2px solid #dda388;
+    border-radius: 4px;
+}
+
+.login input {
+    background-color: #f4e0d7;
+    width: 100%;
+    height: 30px;
+    margin-bottom: 15px;
+    border: 1px solid #dda388;
+}
+
+#Accessories img{
+    display: inline-block;
+}
+
+.leash1 {
+   display: inline-block; 
+   max-width: 400px;
+   text-align: center;
+}
+
+.leash1 h1{ 
+   font-size: 15px;
+}
+
+
+.leash2 {
+   display: inline-block; 
+   max-width: 400px;
+   text-align: center;
+}
+
+.leash2 h1{
+   font-size: 15px;
+}
+
+
+.leash3 {
+   display: inline-block; 
+   max-width: 400px;
+   text-align: center;
+}
+
+.leash3 h1{
+   font-size: 15px;
+}
+
+
+.leash4 {
+   display: inline-block; 
+   max-width: 400px;
+   text-align: center;
+}
+
+.leash4 h1{
+   font-size: 15px;
+}
+
+.leash5 {
+   display: inline-block; 
+   max-width: 400px;
+   text-align: center;
+}
+
+.leash5 h1{
+   font-size: 15px;
+}
+
+
+.leash6 {
+   display: inline-block; 
+   max-width: 400px;
+   text-align: center;
+}
+
+.leash6 h1{
+   font-size: 15px;
+}
+
+.leash7 {
+   display: inline-block; 
+   max-width: 400px;
+   text-align: center;
+}
+
+.leash7 h1 {
+   font-size: 15px;
+}
+
+
+.leash8 {
+   display: inline-block; 
+   max-width: 400px;
+   text-align: center;
+}
+
+.leash8 h1{
+   font-size: 15px;
+}
+
+
+.leash9 {
+   display: inline-block; 
+   max-width: 400px;
+   text-align: center;
+}
+
+.leash9 h1{
+   font-size: 15px;
+}
+
+.leash10 {
+   display: inline-block; 
+   max-width: 400px;
+   text-align: center;
+}
+.leash10 h1{
+   font-size: 15px;
+}
+
+
+.clothes1 {
+   display: inline-block; 
+   max-width: 400px;
+   text-align: center;
+}
+
+.clothes1 h1{ 
+   font-size: 15px;
+}
+
+.clothes2 {
+   display: inline-block; 
+   max-width: 400px;
+   text-align: center;
+}
+
+.clothes2 h1{
+   font-size: 15px;
+}
+
+.clothes3 {
+   display: inline-block; 
+   max-width: 400px;
+   text-align: center;
+}
+
+.clothes3 h1{
+   font-size: 15px;
+}
+
+.clothes4 {
+   display: inline-block; 
+   max-width: 400px;
+   text-align: center;
+}
+
+.clothes4 h1{
+   font-size: 15px;
+}
+
+.clothes5 {
+   display: inline-block; 
+   max-width: 400px;
+   text-align: center;
+}
+
+.clothes5 h1{
+   font-size: 15px;
+}
+
+.clothes6 {
+   display: inline-block; 
+   max-width: 400px;
+   text-align: center;
+}
+
+.clothes6 h1{
+   font-size: 15px;
+}
+
+.clothes7 {
+   display: inline-block; 
+   max-width: 400px;
+   text-align: center;
+}
+
+.clothes7 h1{
+   font-size: 15px;
+}
+
+.clothes8 {
+   display: inline-block; 
+   max-width: 400px;
+   text-align: center;
+}
+
+.clothes8 h1{
+   font-size: 15px;
+}
+
+.clothes9 {
+   display: inline-block; 
+   max-width: 400px;
+   text-align: center;
+}
+
+.clothes9 h1{
+   font-size: 15px;
+}
+
+.clothes10 {
+   display: inline-block; 
+   max-width: 400px;
+   text-align: center;
+}
+
+.clothes10 h1{
+   font-size: 15px;
+}
+
+
+* {cursor: url(http://cur.cursors-4u.net/nature/nat-9/nat820.cur), auto !important;}
+.icon img:hover {
+  animation: shake 0.82s cubic-bezier(.36,.07,.19,.97) both;
+  transform: translate3d(0, 0, 0);
+  backface-visibility: hidden;
+  perspective: 1000px;
+}
+
+@keyframes shake {
+  10%, 90% {
+    transform: translate3d(-1px, 0, 0);
+  }
+  
+  20%, 80% {
+    transform: translate3d(2px, 0, 0);
+  }
+
+  30%, 50%, 70% {
+    transform: translate3d(-4px, 0, 0);
+  }
+
+  40%, 60% {
+    transform: translate3d(4px, 0, 0);
+  }
+}
